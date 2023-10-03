@@ -50,7 +50,7 @@ Star the repository by pressing the topmost-right button to start your wonderful
   <img src="https://contributors-img.web.app/image?repo=CyberFunk007/Hacktoberfest2023" />
 </a>
 
-[](https://contributors-img.web.app).
+[](https://contributors-img.web.app)
 
 
 ## Help Contributing Guides :crown:
