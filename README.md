@@ -1,4 +1,4 @@
-# Java Projects Collections🔥
+# Hacktoberfest 2023🔥
 
 <img width="1440" alt="image" src="https://github.com/kishanrajput23/Java-Projects-Collections/assets/70385488/d726ecd1-103b-473e-9b4c-a9c07045614e">
 
@@ -50,7 +50,7 @@ Star the repository by pressing the topmost-right button to start your wonderful
   <img src="https://contributors-img.web.app/image?repo=CyberFunk007/Hacktoberfest2023" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
+[](https://contributors-img.web.app).
 
 
 ## Help Contributing Guides :crown:
